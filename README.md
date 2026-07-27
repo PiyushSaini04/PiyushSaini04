@@ -159,12 +159,16 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PiyushSaini04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd&border_radius=10" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=PiyushSaini04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd&border_radius=10" width="49%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaini04&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&border_radius=10" width="49%" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PiyushSaini04&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaini04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd&border_radius=10&langs_count=8" width="40%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaini04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd&border_radius=10&langs_count=8" width="40%"/> -->
 
 </div>
 
@@ -174,11 +178,11 @@
 
 ## 🐍 Contribution Graph
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiyushSaini04/PiyushSaini04/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiyushSaini04/PiyushSaini04/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/PiyushSaini04/PiyushSaini04/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+</picture> -->
 
 </div>
 
